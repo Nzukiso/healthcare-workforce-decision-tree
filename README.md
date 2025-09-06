@@ -33,3 +33,17 @@ Key predictors: Job satisfaction, stress level, and burnout frequency.
 
 ## 📑 Dataset
 The dataset is available on Kaggle: [Healthcare Workforce Mental Health Dataset](https://www.kaggle.com/) (synthetic, educational use only).
+
+## 📊 Excel Dashboards
+In addition to the Python analysis, I created interactive Excel dashboards using PivotTables, PivotCharts, and Slicers.
+
+Dashboards include:
+1. Department vs. Burnout Frequency  
+2. Job Satisfaction vs. Turnover Intention  
+3. Access to EAPs vs. Mental Health Absences  
+4. Department vs. Turnover Intention (PivotTable)
+
+Two interactive slicers (Department, Stress Level) allow users to filter results dynamically.
+
+👉 Open the dashboards here: [Healthcare_Workforce_Dashboard.xlsx](excel_dashboards/Healthcare_Workforce_Dashboard.xlsx)
+
